@@ -28,3 +28,15 @@ import matplotlib.pyplot as plt
 
 mne.io.read_edf("data_path.edf")
 ```
+## Adding list
+According to the tutorial, adding list to the markdown is useful because it can help us keep track of the progress for specific tasks. 
+
+We have to be careful about the syntax because otherwise the list will not work. 
+
+Here is an example: 
+- [x] Write a header in the index.md file
+- [x] Add a picture in the index.md file
+- [x] Add code to the index.md file
+- [x] Add a list to the index.md file
+- [ ] Commit
+- [ ] Wait for the next step
